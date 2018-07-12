@@ -1,0 +1,1 @@
+带注释的 [es6-promise](https://github.com/stefanpenner/es6-promise) 源码 🎉
